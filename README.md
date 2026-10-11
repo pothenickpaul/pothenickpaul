@@ -54,10 +54,5 @@ Ich bin Paul. Wenn mich etwas nervt, baue ich ein Werkzeug dagegen und betreibe 
   </tr>
 </table>
 
-### Wie das entsteht
-
-- **Neugier auf Sprachmodelle.** Ich arbeite mit Claude Code: Ich beschreibe das Problem und wie sich etwas verhalten soll, das Modell schreibt den Code, ich prüfe das Ergebnis und entscheide, was rausgeht.
-- **Selbst gehostet.** Fast alles läuft auf einem kleinen Server und ein paar Raspberry Pis, die Projektseite auch – ohne Tracker, Cookies und fremde Schriften.
-- **Daten bleiben, wo sie sind.** Mehrere der Werkzeuge rechnen komplett im Browser, damit eine Rechnung oder ein Bauplan den Rechner gar nicht erst verlässt.
 
 Die Repositories sind privat. Was die Projekte können, zeigt die Seite; Fragen gern über den [Kontakt dort](https://faulepaule.com/#kontakt).
